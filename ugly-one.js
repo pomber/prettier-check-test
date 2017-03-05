@@ -1,1 +1,1 @@
-var a = "missing end
+var a = "missing end";

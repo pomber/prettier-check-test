@@ -1,1 +1,1 @@
-var x = 'using wrong quotes';
+var x = "using wrong quotes";
