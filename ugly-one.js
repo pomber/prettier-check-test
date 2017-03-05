@@ -1,1 +1,1 @@
-var a = "missing semicolon"
+var a = "missing end
