@@ -1,0 +1,22 @@
+{
+  "name": "prettier-check-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier-check *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomber/prettier-check-test.git"
+  },
+  "author": "Rodrigo Pombo <pombopombopombo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pomber/prettier-check-test/issues"
+  },
+  "homepage": "https://github.com/pomber/prettier-check-test#readme",
+  "dependencies": {
+    "prettier-check": "^1.0.0"
+  }
+}
