@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pomber/prettier-check-test#readme",
   "dependencies": {
+    "prettier": "^0.21.0",
     "prettier-check": "^1.0.0"
   }
 }
